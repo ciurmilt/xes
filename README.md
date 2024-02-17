@@ -8,7 +8,7 @@
 
 | Open Source        | Performance | Ease of use | Security | Size         |
 | ------------------ | ----------- | ----------- | -------- | ------------ |
-| By GPLv3.0 license | Very Height | Easy        | Very     | about ½ 10GB |
+| By GPLv3.0 license | Height      | Easy        | Very     | about ½ 10GB |
 
 ## Why it is height performance?
 
