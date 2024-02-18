@@ -1,5 +1,5 @@
 # The XES system.
-<img src="xes logo.png">
+<img src="icon/xes logo.png">
 
 ## It's a system ,  height performance , easy using , very safe , open source system.
 
@@ -53,11 +53,12 @@ the swap partition , You can customize its size.
 ### User interface design.
 
 #### We use this approach:
-<img src="desktop.png">
+<img src="icon/desktop.png">
 
 #### notify:
+<img src="icon/notify.png">
 
-#### set up:
+#### settings:
 
 #### start:
 
