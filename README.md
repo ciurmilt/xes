@@ -60,6 +60,8 @@ the swap partition , You can customize its size.
 
 #### settings:
 
+<img src="icon/settings.png">
+
 #### start:
 
 #### control center:
