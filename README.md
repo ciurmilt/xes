@@ -52,7 +52,7 @@ the swap partition , You can customize its size.
 
 | formats | usefulness                |
 | ----------- | ----------------------- |
-| XIP         | XES icon pack             |
+| XPK         | XES pack             |
 | XDF         | XES dependency files       |
 | XEXEP         | XES executable program |
 | XAC         | XES application configuration file      |
