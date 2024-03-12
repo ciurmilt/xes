@@ -48,7 +48,14 @@ swap some "Not used often files" to /swap partition , And usually used files at 
 
 the swap partition , You can customize its size.
 
-## Where is its ease of use?
+### What are its main file formats?
+
+| formats | usefulness                |
+| ----------- | ----------------------- |
+| XIP         | XES icon pack             |
+| XDF         | XES dependency files       |
+| XEXEP         | XES executable program |
+| XAC         | XES application configuration file      |
 
 ### User interface design.
 
