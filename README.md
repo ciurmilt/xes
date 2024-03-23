@@ -15,7 +15,7 @@
 
 ### It using smart tasks admin program , Like this:
 
-####  if CPU have ... cores.
+####  if CPU have a cores.
 
 | A core                       | Two or Four cores  |
 | ---------------------------- | ------------------ |
