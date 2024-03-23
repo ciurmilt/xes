@@ -64,7 +64,7 @@ the swap partition , You can customize its size.
 
 ### User interface design.
 
-#### We use this approach:
+#### default is this(you can feel free to change it):
 <img src="icon/desktop.png">
 
 #### notify:
