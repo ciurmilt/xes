@@ -44,6 +44,10 @@ Repeat this.
 
 un... if now have a program in your memory , XES handles it this way:
 
+if its using , xes can keep it in memory.
+
+if its opened , but no using , xes do:
+
 swap some "Not used often files" to /swap partition , And usually used files at your memory.
 
 the swap partition , You can customize its size.
