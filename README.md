@@ -3,6 +3,9 @@
 
 ## It's a system ,  height performance , easy using , very safe , open source system.
 
+## Download addresses
+[Cloudflare R2](xes86.xsvoice.top)
+[Google drive](xsvoice.top/xes86)
 
 
 # A SYSTEM
