@@ -4,7 +4,7 @@
 ## It's a system ,  height performance , easy using , very safe , open source system.
 
 ## Download addresses
-[Cloudflare R2](http://xes86.xsvoice.top)
+[Cloudflare R2](http://xes86.xsvoice.top) [Github Release](https://github.com/ciurmilt/xes-x86/releases)
 
 
 # A SYSTEM
