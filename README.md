@@ -5,7 +5,6 @@
 
 ## Download addresses
 [Cloudflare R2](http://xes86.xsvoice.top)
-[Google drive](http://xsvoice.top/xes86)
 
 
 # A SYSTEM
