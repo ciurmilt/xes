@@ -6,9 +6,7 @@
 ## Download addresses
  [Github Tag](https://github.com/ciurmilt/xes-x86/releases)
 
-The tag have a R2(Cloudflare R2)'s download address , If your cloudflare speed is fast , Please download to R2.
-
-If you don't know your R2 speed , please cleck [This](https://xsvoice.top/s) . Will download a 300MB file.
+[Ciurmilt(Cloudflare R2+CDN) internet connect speedtest](https://xsvoice.top/s)  Will download a 300MB file.
 
 And... if you want others download address , please cleck [This](https://a.xsvoice.top).
 
