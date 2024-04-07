@@ -10,6 +10,11 @@ The tag have a R2(Cloudflare R2)'s download address , If your cloudflare speed i
 
 If you don't know your R2 speed , please cleck [This](https://xsvoice.top/s) . Will download a 300MB file.
 
+## For China user
+
+If your in China , Your R2 and Tag all in slow.
+
+But , we have a singapore server for you , can help you fast download.
 # A SYSTEM
 
 | Open Source        | Performance | Ease of use | Security | Size         |
