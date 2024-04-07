@@ -8,7 +8,7 @@
 
 The tag have a R2(Cloudflare R2)'s download address , If your cloudflare speed is fast , Please download to R2.
 
-If you don't know your R2 speed , please cleck [This](https://xsvoice.top/s)
+If you don't know your R2 speed , please cleck [This](https://xsvoice.top/s) . Will download a 300MB file.
 
 # A SYSTEM
 
