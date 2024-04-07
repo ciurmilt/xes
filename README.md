@@ -4,8 +4,10 @@
 ## It's a system ,  height performance , easy using , very safe , open source system.
 
 ## Download addresses
- [Github Release](https://github.com/ciurmilt/xes-x86/releases)
+ [Github Tag](https://github.com/ciurmilt/xes-x86/releases)
 
+The tag have a R2(Cloudflare R2)'s download address , If your cloudflare speed is fast , Please download to R2.
+If you don't know your R2 speed , please cleck [This](https://xsvoice.top/s)
 
 # A SYSTEM
 
