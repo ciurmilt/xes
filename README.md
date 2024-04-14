@@ -65,7 +65,7 @@ the swap partition , You can customize its size.
 | XAC         | XES application configuration file      |
 
 ### How can I development a app for XES?
-plase watch the video (link you for Youtube) : https://www.youtube.com/embed/Rt5xTLm6oHA?si=2XwaqtoCNsaO8H5H
+plase watch the video (link you for Youtube) :[This](https://www.youtube.com/watch?v=Rt5xTLm6oHA)
 
 ### User interface design.
 
