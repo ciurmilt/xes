@@ -83,7 +83,4 @@ plase watch the video (link you for Youtube) :[This](https://www.youtube.com/wat
 <img src="icon/start.png">
 
 #### control center:
-
-#### Desktop widgets:
-
-#### Application list:
+<img src="icon/cc.png">
