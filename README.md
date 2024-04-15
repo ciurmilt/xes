@@ -80,6 +80,7 @@ plase watch the video (link you for Youtube) :[This](https://www.youtube.com/wat
 <img src="icon/settings.png">
 
 #### start:
+<img src="icon/start.png">
 
 #### control center:
 
