@@ -67,7 +67,7 @@ the swap partition , You can customize its size.
 ### How can I development a app for XES?
 please watch the video (link you for Youtube) :[This](https://www.youtube.com/watch?v=Rt5xTLm6oHA)
 
-Text description [This](How development a XES86 program.md)
+Text description :[This] (How development a XES86 program.md)
 ### User interface design.
 
 #### default is this(you can feel free to change it):
