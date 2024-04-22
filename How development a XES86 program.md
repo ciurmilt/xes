@@ -100,7 +100,7 @@ style(){ //Define style (global)
             //Window: size 20 pixels, rounded corners, 15 pixels rounded corners, black border , focus on the middle shadow, color sky blue
        }
 ```
-
+### If you want add pressed element , please look this 👇
 ```
 pressed(element=[option name]){
 //What happens when the element is pressed
