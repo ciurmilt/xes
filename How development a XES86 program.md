@@ -62,9 +62,7 @@ new-window(type=default){ //Define a new window of a general type
 new-window:left(left=150pixels){ //Define the display content of 150 pixels from left to right}
 ```
 
-## **Before defining any element, you need to add the declaration: **
-
-## **#midendos comtions**
+## Before defining any element, you need to add the declaration: #midendos comtions
 
 ```
 new-option(name=home){ //Add a new option named home
