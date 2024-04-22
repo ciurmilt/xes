@@ -12,9 +12,9 @@ Sometimes [notepad++](https://notepad-plus-plus.org/downloads/) or [VSCode](http
 
 You need in the file header write some induce , You can Reference the list.
 
-Just like : #induce [mode name]
+Just like : #induce [mod name]
 
-##                                                      Primary modes
+##                                                      Primary mods
 
 | Name            | Function                              | Remark                                   |
 | --------------- | ------------------------------------- | ---------------------------------------- |
