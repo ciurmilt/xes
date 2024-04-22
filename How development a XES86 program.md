@@ -27,7 +27,7 @@ Just like : #induce [mod name]
 
 
 
-### And , you need add load mode command.
+### And , you need add load mod command.
 
 ```
 start_the_progeram
