@@ -64,12 +64,14 @@ new-window:left(left=150pixels){ //Define the display content of 150 pixels from
 
 ## Before defining any element, you need to add the declaration: #midendos comtions
 
+## Make a new option.
+
 ```
 new-option(name=home){ //Add a new option named home
     $origens-to-right(); //Set it to right alignment
 }
 ```
-
+## Display text in the option.
 ```
 new-option(name=Safe-and-update){ //Add an option named Safe-and-update
  text(font=default;size=30pixels;type=title;text="Safe & Update";code=utf-8;); 
