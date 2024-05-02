@@ -30,7 +30,7 @@ And... if you want others download address , please cleck [This](https://a.xsvoi
 
 just like this:
 
-| A task             | Two tasks                                       |
+| A task             | Two tasks of more                               |
 | ------------------ | ----------------------------------------------- |
 | For core 0 handled | Main T.1 to core 0 and 1 , T.2 to core 2 and 3. |
 
