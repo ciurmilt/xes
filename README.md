@@ -65,7 +65,7 @@ the swap partition , You can customize its size.
 | XEXEP         | XES executable program |
 | XAC         | XES application configuration file      |
 
-If you want know XES files tree , [Link for Youtube](https://www.youtube.com/embed/wreNyhvzwqw?si=jb5L_vFfuoR2cYdO" title="YouTube video player).
+If you want know XES files tree , [Link for Youtube](https://www.youtube.com/embed/wreNyhvzwqw?si=jb5L_vFfuoR2cYdO").
 
 ### How can I development a app for XES?
 please watch the video (link you for Youtube) :[This](https://www.youtube.com/watch?v=Rt5xTLm6oHA)
